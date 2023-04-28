@@ -4,6 +4,6 @@
 
 Base do estudo:
 
-  <a href="https://github.com/clewertonx1/calculatorAppTutorial">
+  <a href="https://github.com/clewertonx1/calculatorAppTutorial"> App Calculator tutorial </a>
   
 Mudança em porcentagem e visualização do projeto.
